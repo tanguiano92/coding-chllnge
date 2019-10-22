@@ -1,9 +1,10 @@
-
+let button;
 
 function setup() {
 background();
-createButton("click to change color");
 
+button = createButton("click to change color");
+button.mousePressed();
 }
 
 function draw() {
