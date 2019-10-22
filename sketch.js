@@ -1,7 +1,10 @@
-
+let button;
 
 function setup() {
 background();
+
+button = createButton();
+button.mousePressed();
 
 
 }
