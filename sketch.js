@@ -2,6 +2,7 @@
 
 function setup() {
 background();
+createButton("Click to Change Color");
 
 }
 
