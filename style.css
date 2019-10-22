@@ -8,7 +8,7 @@ canvas {
 
 body {
   background-image: url(images/haunted_house.jpg);
-  background-size: cover;
+  background-size: none;
   background-repeat: repeat;
 }
 
