@@ -1,14 +1,19 @@
-let button;
 
 function setup() {
 background();
 
 button = createButton();
-button.mousePressed();
+button.mousePressed(buttonPressed);
 
 
 }
 
 function draw() {
   background(220);
+}
+
+function buttonPressed(){
+
+
+
 }
