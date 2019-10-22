@@ -10,13 +10,3 @@ body {
   background-image: url(images/haunted_house.jpg);
   background-repeat: repeat-x;
 }
-
-.button {
-  background-color: green; /* Green */
-  border: none;
-  color: white;
-  padding: 40px 65px;
-  text-align: center;
-  display: inline;
-  font-size: 16px;
-}

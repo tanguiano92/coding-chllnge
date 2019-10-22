@@ -1,4 +1,4 @@
-let button;
+
 
 function setup() {
 noBackground();
