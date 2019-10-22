@@ -1,9 +1,7 @@
 let button;
 
 function setup() {
-   button = createButton('click me');
-   button.position(19, 19);
-   button.mousePressed(changeBG);
+createButton("Click to Change Color");
 
 }
 
