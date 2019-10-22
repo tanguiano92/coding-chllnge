@@ -1,7 +1,7 @@
 
 
 function setup() {
-createButton("Click to Change Color");
+background();
 
 }
 
