@@ -1,12 +1,12 @@
+let button;
 
 
 function setup() {
-noBackground();
+  createCanvas(400, 400);
 
-createButton();
+  button = createButton("click to change color");
 
-
-
+  image(img, 0, 0);
 
 
 }
@@ -14,9 +14,6 @@ createButton();
 function draw() {
   background(220);
 }
-
-function myFunction(){
-
 
 
 }

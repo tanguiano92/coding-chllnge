@@ -5,8 +5,7 @@ html, body {
 canvas {
   display: block;
 }
-
 body {
   background-image: url(images/haunted_house.jpg);
-  background-repeat: repeat-x;
+  background-repeat: repeat;
 }
