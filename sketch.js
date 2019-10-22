@@ -1,6 +1,11 @@
+let button;
 
 function setup() {
-background();
+noBackground();
+
+createButton();
+
+
 
 
 
