@@ -3,8 +3,6 @@
 function setup() {
 background();
 
-createButton("click to change color");
-
 
 }
 
