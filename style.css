@@ -7,6 +7,6 @@ canvas {
 }
 
 body {
-  background-image: url(butterfly.jpg);
+  background-image: url('images/butterfly.jpg');
   background-repeat: repeat;
 }
