@@ -4,8 +4,8 @@ let button;
 function setup() {
 noCanvas();
 
-  button = createButton("click to change color");
-  button.mousePressed(buttonIsPressed);
+button = select('#butt');
+
 }
 
 function draw() {
