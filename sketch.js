@@ -1,27 +1,31 @@
+let button;
 
-//let button;
+let checkbox;
 
+function setup() {
+noCanvas();
 
-//function setup() {
-//noCanvas();
+checkbox = createCheckbox('label', false);
 
-//button = select('#butt');
-//button.mousePressed(buttonPressed);
+button = select('#butt');
+button.mousePressed(buttonPressed);
 
-//}
+}
 
-//function draw() {
-
-
-//}
-
-//function buttonPressed(){
-//let body;
-//body = select('body')
-//body.style('background-image', "url('images/butterfly.jpg')")
+function draw() {
 
 
-//}
+}
+
+function buttonPressed(){
+let body;
+body = select('body')
+body.style('background-image', "url('images/butterfly.jpg')")
+
+
+}
+
+
 
 
 //path to the haunted directory
